@@ -36,6 +36,7 @@ import html
 import json
 import os
 import re
+import ssl
 import subprocess
 import sys
 import urllib.error
@@ -52,9 +53,39 @@ BRANCH = "gh-pages"
 BASIS_DATEI = ZIEL / ".oeffentliche_basis"
 
 
+def _ssl_kontext():
+    """Vertrauensbasis für HTTPS. AM 06.10.2026 GEFUNDEN:
+
+    `urllib.request.urlopen()` nimmt den Standard-Kontext des Interpreters. Der python.org-Bau
+    auf diesem Mac bringt KEINE Zertifikatskette mit — die Gegenprobe am Ende des Spiegellaufs
+    endete deshalb mit
+        urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] unable to get local issuer certificate
+    und der Lauf meldete eine WARNUNG, obwohl der öffentliche Feed einwandfrei erreichbar war.
+    Eine Prüfung, die immer warnt, wird ignoriert — und dann fällt die echte Warnung nicht auf.
+    Deshalb: erst certifi, sonst die Systemdatei von macOS.
+    """
+    for pfad in (None, "/etc/ssl/cert.pem", "/opt/homebrew/etc/openssl@3/cert.pem"):
+        try:
+            if pfad is None:
+                import certifi  # type: ignore
+                kandidat = certifi.where()
+            else:
+                kandidat = pfad
+            if kandidat and Path(kandidat).is_file():
+                ctx = ssl.create_default_context(cafile=kandidat)
+                if ctx.get_ca_certs():
+                    return ctx
+        except Exception:  # noqa: BLE001 — nächster Kandidat
+            continue
+    return ssl.create_default_context()
+
+
+SSL_CTX = _ssl_kontext()
+
+
 def hol(url: str, ziel: Path | None = None, timeout: int = 60):
     """Holt eine URL. Gibt Bytes zurück oder schreibt sie in eine Datei."""
-    with urllib.request.urlopen(url, timeout=timeout) as r:
+    with urllib.request.urlopen(url, timeout=timeout, context=SSL_CTX) as r:
         daten = r.read()
     if ziel:
         ziel.parent.mkdir(parents=True, exist_ok=True)
