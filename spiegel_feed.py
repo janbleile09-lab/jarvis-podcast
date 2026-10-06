@@ -30,6 +30,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
+from datetime import date
 from pathlib import Path
 
 LOKAL = "http://127.0.0.1:8000"
@@ -119,6 +120,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--pruefen", action="store_true", help="nur anzeigen, nichts schreiben")
     ap.add_argument("--nur-neue", action="store_true", help="vorhandene Audio-Dateien nicht erneut laden")
+    ap.add_argument("--hochladen", action="store_true", help="nach dem Spiegeln nach GitHub Pages schieben")
     args = ap.parse_args()
 
     basis = oeffentliche_basis()
@@ -193,7 +195,28 @@ def main() -> int:
             return 3
 
     print("\nFertig. Dateien liegen in", ZIEL)
-    print("Nächster Schritt: hochladen mit --hochladen (macht der Auftraggeber).")
+
+    if args.hochladen:
+        # 4) Hochladen — nur wenn vorher alles geprüft ist.
+        BASIS_DATEI.write_text(basis, encoding="utf-8")
+        git("add", "-A")
+        r = git("status", "--porcelain")
+        if not r.stdout.strip():
+            print("Nichts Neues hochzuladen — der öffentliche Stand ist schon aktuell.")
+        else:
+            git("commit", "-m", f"Podcast-Feed aktualisiert ({date.today().isoformat()})")
+            git("push", "origin", BRANCH)
+            print("Hochgeladen:", git("log", "--oneline", "-1").stdout.strip())
+        # 5) Gegenprobe: ist der Feed wirklich öffentlich abrufbar?
+        try:
+            oeff = hol(f"{basis}/podcast.xml", timeout=90).decode("utf-8")
+            n_oeff = oeff.count("<item>")
+            print(f"Gegenprobe: öffentlicher Feed liefert {n_oeff} Folgen, {len(oeff)} Zeichen")
+            if n_oeff < neu.count("<item>"):
+                print("WARNUNG: öffentlicher Feed hat weniger Folgen als erwartet "
+                      f"({n_oeff} < {neu.count('<item>')})")
+        except Exception as exc:  # noqa: BLE001
+            print("WARNUNG: öffentlicher Feed noch nicht abrufbar:", str(exc)[:100])
     return 0
 
 
