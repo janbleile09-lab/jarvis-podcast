@@ -19,7 +19,18 @@ Aufruf:
 Die Geheimnisse (Key-Parameter) werden ENTFERNT: der Feed soll öffentlich sein, ein Zugangs-
 schlüssel in einer öffentlichen Datei wäre ein Widerspruch. Die Audio-Dateien selbst sind
 unbedenklich — es sind Jans eigene Sprachaufnahmen über sein Projekt.
+
+AM 06.10.2026 GEFUNDEN UND REPARIERT (das hätte den Podcast still getötet):
+`podcast_oeffentlich.sh` ruft dieses Skript mit `python3` auf. In einer Cron-Umgebung gibt es
+kein PATH aus der Login-Shell — dort greift `/usr/bin/python3`, und das ist auf diesem Mac
+**Python 3.9.6**. Die Schreibweise `Path | None` in der Signatur ist aber erst ab 3.10 erlaubt:
+    TypeError: unsupported operand type(s) for |: 'type' and 'NoneType'
+Das Skript starb in Zeile 44, BEVOR irgendetwas gespiegelt wurde — und weil die Prüfung im
+Aufrufer nur den Exit-Code sah, wäre die Folge im Hub entstanden und **nie öffentlich** geworden.
+`from __future__ import annotations` unten macht 3.10+-Schreibweise unter 3.9 gültig (Annotationen
+werden dann nicht ausgewertet). Bitte NICHT entfernen.
 """
+from __future__ import annotations
 import argparse
 import html
 import json
