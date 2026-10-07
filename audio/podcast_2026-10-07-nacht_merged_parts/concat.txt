@@ -1,0 +1,3 @@
+file '/Users/janbleile/jarvis-podcast-public/audio/podcast_2026-10-07-nacht_merged_parts/part00.wav'
+file '/Users/janbleile/jarvis-podcast-public/audio/podcast_2026-10-07-nacht_merged_parts/part01.wav'
+file '/Users/janbleile/jarvis-podcast-public/audio/podcast_2026-10-07-nacht_merged_parts/part02.wav'

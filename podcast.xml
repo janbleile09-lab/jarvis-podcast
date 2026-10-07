@@ -15,6 +15,28 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht — 07.10.2026: Bilder laden, die Karte arbeitet, Wochenplan steht</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-07-nacht</guid>
+      <pubDate>Wed, 07 Oct 2026 06:24:25 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-07-nacht.mp3" type="audio/mpeg" length="9257600"/>
+      <itunes:duration>578</itunes:duration>
+      <itunes:episode>2026-10-07-nacht</itunes:episode>
+    </item>
+    <item>
+      <title>☀️ Dein Morgenbriefing · Mittwoch, 07.10.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 04:13:49 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-07.mp3" type="audio/mpeg" length="1905396"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-10-07</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Zwischenstand — Der Absturz hat jetzt eine Zeile</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-06-zwischenstand</guid>
