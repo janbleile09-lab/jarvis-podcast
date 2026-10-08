@@ -26,6 +26,17 @@
       <itunes:episode>2026-10-08-morgen</itunes:episode>
     </item>
     <item>
+      <title>SAVOOD Tagesbericht — 08.10.: Elf Aufträge, der Druck ist fehlgeschlagen</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-08-abend</guid>
+      <pubDate>Thu, 08 Oct 2026 19:34:14 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-08-abend.mp3" type="audio/mpeg" length="3734528"/>
+      <itunes:duration>233</itunes:duration>
+      <itunes:episode>2026-10-08-abend</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing · Donnerstag, 08.10.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-08</guid>
