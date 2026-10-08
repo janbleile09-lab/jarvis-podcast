@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>Nachtbericht 08.10. — Der Touchscreen war die Ursache</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-08-morgen</guid>
+      <pubDate>Thu, 08 Oct 2026 03:55:11 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-08-morgen.mp3" type="audio/mpeg" length="3840129"/>
+      <itunes:duration>239</itunes:duration>
+      <itunes:episode>2026-10-08-morgen</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Zwischenstand — 07.10.2026, kurz vor zwölf: sechs Punkte</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-07-zwischenstand</guid>
