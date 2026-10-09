@@ -15,6 +15,28 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht — 09.10.2026: Der Assistent sieht jetzt alles — nur das Display kam nicht ins Netz</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-09-morgen</guid>
+      <pubDate>Fri, 09 Oct 2026 04:22:09 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-09-morgen.mp3" type="audio/mpeg" length="3959169"/>
+      <itunes:duration>247</itunes:duration>
+      <itunes:episode>2026-10-09-morgen</itunes:episode>
+    </item>
+    <item>
+      <title>☀️ Dein Morgenbriefing Freitag 09.10.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 04:04:02 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-09.mp3" type="audio/mpeg" length="6001908"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-10-09</itunes:episode>
+    </item>
+    <item>
       <title>Nachtbericht 08.10. — Der Touchscreen war die Ursache</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-08-morgen</guid>
