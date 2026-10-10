@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>☀️ Dein Morgenbriefing Samstag 10.10.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 04:07:54 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-10.mp3" type="audio/mpeg" length="8486772"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-10-10</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Nachtbericht — 09.10.2026: Der Assistent sieht jetzt alles — nur das Display kam nicht ins Netz</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-09-morgen</guid>
