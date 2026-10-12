@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>☀️ Dein Morgenbriefing Montag, 12.10.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 04:18:07 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-12.mp3" type="audio/mpeg" length="1887540"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-10-12</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Tagesbericht — 11.10.2026: Ausgeliefert wurde nur die Beschreibung der Lücke</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-11-abend</guid>
