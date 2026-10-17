@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Tagesbericht — 17.10.2026: Der Umstieg ist am Geraet belegt — das neue Abbild noch nicht geflasht</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-17-abend</guid>
+      <pubDate>Sat, 17 Oct 2026 19:42:38 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-17-abend.mp3" type="audio/mpeg" length="3973760"/>
+      <itunes:duration>248</itunes:duration>
+      <itunes:episode>2026-10-17-abend</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Nachtbericht — 16.10.2026: Die Kette ist belegt — SD-Karte und Funkchip gleichzeitig, dann Neustart</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-16-morgen</guid>
