@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht — 2026-10-18-morgen</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-18-morgen</guid>
+      <pubDate>Sun, 18 Oct 2026 04:39:58 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-18-morgen.mp3" type="audio/mpeg" length="4121601"/>
+      <itunes:duration>257</itunes:duration>
+      <itunes:episode>2026-10-18-morgen</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Tagesbericht — 17.10.2026: Der Umstieg ist am Geraet belegt — das neue Abbild noch nicht geflasht</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-17-abend</guid>
