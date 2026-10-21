@@ -37,6 +37,17 @@
       <itunes:episode>2026-10-21-live-1547</itunes:episode>
     </item>
     <item>
+      <title>SAVOOD Tagesbericht — 21.10.2026: Prüftor grün, aber zwei Bäume messen zwei Speicherzahlen</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-21-abend</guid>
+      <pubDate>Wed, 21 Oct 2026 19:37:58 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-21-abend.mp3" type="audio/mpeg" length="3411968"/>
+      <itunes:duration>213</itunes:duration>
+      <itunes:episode>2026-10-21-abend</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Nachtbericht — 20.10.2026: Zwei Abstürze im Vorabladen, einer behoben — und die Code-Maschine fiel aus</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-20-morgen</guid>
