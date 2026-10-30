@@ -15,6 +15,39 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht — 30.10.2026: Keine Delegation, Tagesschicht lieferte 17 Commits, Web-Test rot, Firmware grün</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-30-morgen</guid>
+      <pubDate>Fri, 30 Oct 2026 05:35:21 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-30-morgen.mp3" type="audio/mpeg" length="2766516"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-10-30-morgen</itunes:episode>
+    </item>
+    <item>
+      <title>SAVOOD Tagesbericht — 30.10.2026: Null Commits, null Delegation, null Firmware, 23 Repos uncommitet</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-30-abend</guid>
+      <pubDate>Fri, 30 Oct 2026 20:32:57 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-30-abend.mp3" type="audio/mpeg" length="2921600"/>
+      <itunes:duration>182</itunes:duration>
+      <itunes:episode>2026-10-30-abend</itunes:episode>
+    </item>
+    <item>
+      <title>☀️ Dein Morgenbriefing 30.10.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 05:04:07 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-30.mp3" type="audio/mpeg" length="3664500"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-10-30</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Tagesbericht — 29.10.2026: 18 Commits, keine Firmware, keine Delegation</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-10-29-abend</guid>
@@ -640,39 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-06.mp3" type="audio/mpeg" length="2086260"/>
       <itunes:duration>130</itunes:duration>
       <itunes:episode>2026-10-06</itunes:episode>
-    </item>
-    <item>
-      <title>☀️ Dein Morgenbriefing Montag 05.10.2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 04:10:19 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-05.mp3" type="audio/mpeg" length="6737460"/>
-      <itunes:duration>420</itunes:duration>
-      <itunes:episode>2026-10-05</itunes:episode>
-    </item>
-    <item>
-      <title>☀️ Dein Morgenbriefing Sonntag, 04.10.2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-04</guid>
-      <pubDate>Sun, 04 Oct 2026 04:04:25 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-04.mp3" type="audio/mpeg" length="6151092"/>
-      <itunes:duration>384</itunes:duration>
-      <itunes:episode>2026-10-04</itunes:episode>
-    </item>
-    <item>
-      <title>☀️ Dein Morgenbriefing Samstag, 03.10.2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 04:14:40 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-03.mp3" type="audio/mpeg" length="1930740"/>
-      <itunes:duration>120</itunes:duration>
-      <itunes:episode>2026-10-03</itunes:episode>
     </item>
   </channel>
 </rss>
