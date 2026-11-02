@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>JARVIS Morning Briefing 2026-11-02</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-02-morgen-neu</guid>
+      <pubDate>Mon, 02 Nov 2026 22:32:54 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/morning_2026-11-02.mp3" type="audio/mpeg" length="18082682"/>
+      <itunes:duration>1130</itunes:duration>
+      <itunes:episode>2026-11-02-morgen-neu</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Tagesbericht — 02.11.2026: Erstes Board-Flash, Boot-Crash behoben, 115-ms-Ausreißer als echter Engpass</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-02-abend</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-07-nacht.mp3" type="audio/mpeg" length="9257600"/>
       <itunes:duration>578</itunes:duration>
       <itunes:episode>2026-10-07-nacht</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Nachmittag - 07.10.2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-07-nachmittag</guid>
-      <pubDate>Wed, 07 Oct 2026 11:40:40 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-07-nachmittag.mp3" type="audio/mpeg" length="5238661"/>
-      <itunes:duration>327</itunes:duration>
-      <itunes:episode>2026-10-07-nachmittag</itunes:episode>
     </item>
   </channel>
 </rss>
