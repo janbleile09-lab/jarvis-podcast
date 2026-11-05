@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>☀️ Dein Morgenbriefing 05.11.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 05:05:01 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-11-05.mp3" type="audio/mpeg" length="9918132"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-11-05</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Nachtbericht — 04.11.2026: Karussell aus, Watchdog belegt, Web wartet auf Deploy</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-04-morgen</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-09.mp3" type="audio/mpeg" length="6001908"/>
       <itunes:duration>375</itunes:duration>
       <itunes:episode>2026-10-09</itunes:episode>
-    </item>
-    <item>
-      <title>Nachtbericht 08.10. — Der Touchscreen war die Ursache</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-08-morgen</guid>
-      <pubDate>Thu, 08 Oct 2026 03:55:11 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-08-morgen.mp3" type="audio/mpeg" length="3816321"/>
-      <itunes:duration>238</itunes:duration>
-      <itunes:episode>2026-10-08-morgen</itunes:episode>
     </item>
   </channel>
 </rss>
