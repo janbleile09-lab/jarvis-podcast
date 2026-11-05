@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Tagesbericht — 05.11.2026: Ein Bot-Commit, nichts gemessen, Board stumm</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-05-abend</guid>
+      <pubDate>Thu, 05 Nov 2026 20:51:10 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-05-abend.mp3" type="audio/mpeg" length="2960768"/>
+      <itunes:duration>184</itunes:duration>
+      <itunes:episode>2026-11-05-abend</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing 05.11.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-05</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-09-abend.mp3" type="audio/mpeg" length="3246080"/>
       <itunes:duration>202</itunes:duration>
       <itunes:episode>2026-10-09-abend</itunes:episode>
-    </item>
-    <item>
-      <title>☀️ Dein Morgenbriefing Freitag 09.10.2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-09</guid>
-      <pubDate>Fri, 09 Oct 2026 04:04:02 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-09.mp3" type="audio/mpeg" length="6001908"/>
-      <itunes:duration>375</itunes:duration>
-      <itunes:episode>2026-10-09</itunes:episode>
     </item>
   </channel>
 </rss>
