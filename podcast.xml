@@ -26,6 +26,17 @@
       <itunes:episode>2026-11-11-morgen</itunes:episode>
     </item>
     <item>
+      <title>SAVOOD Tagesbericht — 11.11.2026: Firmware 1.0.3 am Gerät gemessen, kein Tag im Feld</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-11-abend</guid>
+      <pubDate>Wed, 11 Nov 2026 20:36:01 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-11-abend.mp3" type="audio/mpeg" length="3708800"/>
+      <itunes:duration>231</itunes:duration>
+      <itunes:episode>2026-11-11-abend</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing 11.11.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-11</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-16-abend.mp3" type="audio/mpeg" length="8781056"/>
       <itunes:duration>548</itunes:duration>
       <itunes:episode>2026-10-16-abend</itunes:episode>
-    </item>
-    <item>
-      <title>☀️ Dein Morgenbriefing Freitag, 16. Oktober 2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 04:32:00 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-16.mp3" type="audio/mpeg" length="2992884"/>
-      <itunes:duration>186</itunes:duration>
-      <itunes:episode>2026-10-16</itunes:episode>
     </item>
   </channel>
 </rss>
