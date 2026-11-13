@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>JARVIS Morgen — 13.11.2026: Das Board lebt, der Sammler lügt</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-13-morgen</guid>
+      <pubDate>Fri, 13 Nov 2026 05:45:06 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-13-morgen.mp3" type="audio/mpeg" length="3929601"/>
+      <itunes:duration>245</itunes:duration>
+      <itunes:episode>2026-11-13-morgen</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing 13.11.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-13</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-18-abend.mp3" type="audio/mpeg" length="3412736"/>
       <itunes:duration>213</itunes:duration>
       <itunes:episode>2026-10-18-abend</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Nachtbericht — 17.10.2026: Delegierte Nacht, fehlender Abschluss, drei Entscheidungen</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-17-morgen</guid>
-      <pubDate>Wed, 28 Oct 2026 05:36:08 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-17-morgen.mp3" type="audio/mpeg" length="4712577"/>
-      <itunes:duration>294</itunes:duration>
-      <itunes:episode>2026-10-17-morgen</itunes:episode>
     </item>
   </channel>
 </rss>
