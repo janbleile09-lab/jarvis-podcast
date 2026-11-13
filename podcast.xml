@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>☀️ Dein Morgenbriefing 13.11.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 05:04:04 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-11-13.mp3" type="audio/mpeg" length="3533748"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>2026-11-13</itunes:episode>
+    </item>
+    <item>
       <title>JARVIS Morgen — 12.11.2026: Der Auftrag zeigt auf eine Nacht, die es nicht gibt</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-12-morgen</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-17-morgen.mp3" type="audio/mpeg" length="4712577"/>
       <itunes:duration>294</itunes:duration>
       <itunes:episode>2026-10-17-morgen</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Tagesbericht — 17.10.2026: Der Umstieg ist am Geraet belegt — das neue Abbild noch nicht geflasht</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-17-abend</guid>
-      <pubDate>Sat, 17 Oct 2026 19:42:38 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-17-abend.mp3" type="audio/mpeg" length="3973760"/>
-      <itunes:duration>248</itunes:duration>
-      <itunes:episode>2026-10-17-abend</itunes:episode>
     </item>
   </channel>
 </rss>
