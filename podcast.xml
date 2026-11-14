@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht 14.11.2026 — Delegierte Nacht, selbst gemessen</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-14-morgen</guid>
+      <pubDate>Sat, 14 Nov 2026 05:44:47 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-14-morgen.mp3" type="audio/mpeg" length="4029057"/>
+      <itunes:duration>251</itunes:duration>
+      <itunes:episode>2026-11-14-morgen</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing 14.11.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-14</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-19-morgen.mp3" type="audio/mpeg" length="4416129"/>
       <itunes:duration>275</itunes:duration>
       <itunes:episode>2026-10-19-morgen</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Tagesbericht — 19.10.2026: 20 Commits am Display, Hauptdomain hängt hinterher</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-19-abend</guid>
-      <pubDate>Mon, 19 Oct 2026 19:39:16 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-19-abend.mp3" type="audio/mpeg" length="3714560"/>
-      <itunes:duration>232</itunes:duration>
-      <itunes:episode>2026-10-19-abend</itunes:episode>
     </item>
   </channel>
 </rss>
