@@ -26,6 +26,17 @@
       <itunes:episode>2026-11-15-morgen</itunes:episode>
     </item>
     <item>
+      <title>SAVOOD Tagesbericht — 2026-11-15: AirPlay verdrahtet, Board seit 19:16 stumm</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-15-abend</guid>
+      <pubDate>Sun, 15 Nov 2026 20:35:31 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-15-abend.mp3" type="audio/mpeg" length="3701888"/>
+      <itunes:duration>231</itunes:duration>
+      <itunes:episode>2026-11-15-abend</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing Sonntag, 15.11.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-15</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-21-abend.mp3" type="audio/mpeg" length="3411968"/>
       <itunes:duration>213</itunes:duration>
       <itunes:episode>2026-10-21-abend</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Nachtbericht — 20.10.2026: Zwei Abstürze im Vorabladen, einer behoben — und die Code-Maschine fiel aus</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-20-morgen</guid>
-      <pubDate>Tue, 20 Oct 2026 04:37:07 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-20-morgen.mp3" type="audio/mpeg" length="3716097"/>
-      <itunes:duration>232</itunes:duration>
-      <itunes:episode>2026-10-20-morgen</itunes:episode>
     </item>
   </channel>
 </rss>
