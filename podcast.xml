@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>☀️ Dein Morgenbriefing Montag, 16. November 2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 05:08:13 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-11-16.mp3" type="audio/mpeg" length="16398834"/>
+      <itunes:duration>1025</itunes:duration>
+      <itunes:episode>2026-11-16</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Nachtbericht — 15.11.2026: Null Commits, 821 grüne Web-Tests — und fünf Suiten, die nur im Wiki grün sind</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-15-morgen</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-21-live-1547.mp3" type="audio/mpeg" length="1160964"/>
       <itunes:duration>72</itunes:duration>
       <itunes:episode>2026-10-21-live-1547</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Tagesbericht — 21.10.2026: Prüftor grün, aber zwei Bäume messen zwei Speicherzahlen</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-21-abend</guid>
-      <pubDate>Wed, 21 Oct 2026 19:37:58 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-21-abend.mp3" type="audio/mpeg" length="3411968"/>
-      <itunes:duration>213</itunes:duration>
-      <itunes:episode>2026-10-21-abend</itunes:episode>
     </item>
   </channel>
 </rss>
