@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht — 18.11.2026: Leere Nacht, dreißig saubere Zitate</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-18-morgen</guid>
+      <pubDate>Wed, 18 Nov 2026 05:36:20 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-18-morgen.mp3" type="audio/mpeg" length="4065537"/>
+      <itunes:duration>254</itunes:duration>
+      <itunes:episode>2026-11-18-morgen</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing Mittwoch, 18. November 2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-18</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-24.mp3" type="audio/mpeg" length="3614388"/>
       <itunes:duration>0</itunes:duration>
       <itunes:episode>2026-10-24</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Tagesbericht — 23.10.2026: Schoner repariert, Speichertor noch rot</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-23-abend</guid>
-      <pubDate>Fri, 23 Oct 2026 19:38:42 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-23-abend.mp3" type="audio/mpeg" length="3944960"/>
-      <itunes:duration>246</itunes:duration>
-      <itunes:episode>2026-10-23-abend</itunes:episode>
     </item>
   </channel>
 </rss>
