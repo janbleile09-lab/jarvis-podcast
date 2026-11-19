@@ -26,6 +26,17 @@
       <itunes:episode>2026-11-19-morgen</itunes:episode>
     </item>
     <item>
+      <title>SAVOOD Tagesbericht — 19.11.2026: Sense M3 committet, ein leerer C3 am USB, P4 stumm</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-19-abend</guid>
+      <pubDate>Thu, 19 Nov 2026 20:34:35 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-19-abend.mp3" type="audio/mpeg" length="3739520"/>
+      <itunes:duration>233</itunes:duration>
+      <itunes:episode>2026-11-19-abend</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing Donnerstag, 19. November 2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-19</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-28.mp3" type="audio/mpeg" length="2926644"/>
       <itunes:duration>0</itunes:duration>
       <itunes:episode>2026-10-28</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Nachtbericht — 25.10.2026: Fünf Arbeitsbäume, null Commits — die Nacht kam nicht an</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-25-morgen</guid>
-      <pubDate>Sun, 25 Oct 2026 05:42:48 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-25-morgen.mp3" type="audio/mpeg" length="4188417"/>
-      <itunes:duration>261</itunes:duration>
-      <itunes:episode>2026-10-25-morgen</itunes:episode>
     </item>
   </channel>
 </rss>
