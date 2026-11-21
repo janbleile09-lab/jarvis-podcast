@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>☀️ Dein Morgenbriefing 21.11.2026</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 05:06:34 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-11-21.mp3" type="audio/mpeg" length="11573804"/>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episode>2026-11-21</itunes:episode>
+    </item>
+    <item>
       <title>SAVOOD Nachtbericht — 20.11.2026: Vier Commits vor Mitternacht, 952 grüne Tests, und eine Auftragsdatei aus dem Oktober</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-20-morgen</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-30.mp3" type="audio/mpeg" length="3664500"/>
       <itunes:duration>0</itunes:duration>
       <itunes:episode>2026-10-30</itunes:episode>
-    </item>
-    <item>
-      <title>SAVOOD Tagesbericht — 29.10.2026: 18 Commits, keine Firmware, keine Delegation</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-29-abend</guid>
-      <pubDate>Thu, 29 Oct 2026 20:32:34 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-29-abend.mp3" type="audio/mpeg" length="2896256"/>
-      <itunes:duration>180</itunes:duration>
-      <itunes:episode>2026-10-29-abend</itunes:episode>
     </item>
   </channel>
 </rss>
