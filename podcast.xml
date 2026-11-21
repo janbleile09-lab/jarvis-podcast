@@ -15,6 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
     <item>
+      <title>SAVOOD Nachtbericht — 21.11.2026: Drei Commits vor Mitternacht, 962 grüne Tests — und ein NFC-Fix ohne einen einzigen Tag</title>
+      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
+      <guid isPermaLink="false">jarvis-briefing-2026-11-21-morgen</guid>
+      <pubDate>Sat, 21 Nov 2026 05:37:37 -0000</pubDate>
+      <description></description>
+      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
+      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-11-21-morgen.mp3" type="audio/mpeg" length="3939201"/>
+      <itunes:duration>246</itunes:duration>
+      <itunes:episode>2026-11-21-morgen</itunes:episode>
+    </item>
+    <item>
       <title>☀️ Dein Morgenbriefing 21.11.2026</title>
       <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
       <guid isPermaLink="false">jarvis-briefing-2026-11-21</guid>
@@ -662,17 +673,6 @@
       <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/podcast_2026-10-30-abend.mp3" type="audio/mpeg" length="2921600"/>
       <itunes:duration>182</itunes:duration>
       <itunes:episode>2026-10-30-abend</itunes:episode>
-    </item>
-    <item>
-      <title>☀️ Dein Morgenbriefing 30.10.2026</title>
-      <link>https://janbleile09-lab.github.io/jarvis-podcast</link>
-      <guid isPermaLink="false">jarvis-briefing-2026-10-30</guid>
-      <pubDate>Fri, 30 Oct 2026 05:04:07 -0000</pubDate>
-      <description></description>
-      <itunes:image href="https://janbleile09-lab.github.io/jarvis-podcast/cover.png"/>
-      <enclosure url="https://janbleile09-lab.github.io/jarvis-podcast/audio/briefing_2026-10-30.mp3" type="audio/mpeg" length="3664500"/>
-      <itunes:duration>0</itunes:duration>
-      <itunes:episode>2026-10-30</itunes:episode>
     </item>
   </channel>
 </rss>
